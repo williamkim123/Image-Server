@@ -1,5 +1,6 @@
-# sample commands for running the application:
-Start server
+
+# sample commands for running the application: 
+To start server
 ```sh
 python image_server.py --host 'localhost' --port '50051'
 ```
